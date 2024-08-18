@@ -32,7 +32,7 @@ rating | workshop id, mod name | difficulty, length | tags
 🌕🌕🌕🌕🌖 | 2946387740, Gray Tempest | expert, medium | hostile tuning
 🌕🌕🌕🌕🌗 | 2780070602, City Wide Revolt | grandmaster, overhaul | genre definer, living shitpost, complexity endurance, hostile tuning
 🌕🌕🌕🌕🌗 | 2702048806, Angel Office | expert, collection | audiovisual polish, hostile tuning, genre definer, complexity endurance
-🌕🌕🌕🌕🌗 | 3066995165, Fever Dream | advanced, long | living shitpost, genre definer, no deckbuilding
+🌕🌕🌕🌕🌗 | 3066995165, Fever Dream | advanced, long | living shitpost, genre definer, complexity endurance, no deckbuilding
 🌕🌕🌕🌕🌗 | 2871488081, Da'at Floor | expert, collection | hostile tuning, audiovisual polish
 🌕🌕🌕🌕🌗 | 3266652429, King of Liberation | expert, long | meta upheaval, hostile tuning
 🌕🌕🌕🌕🌗 | 3084371779, Shion (Hard Mode) | expert, medium | meta upheaval, hostile tuning
@@ -42,7 +42,7 @@ rating | workshop id, mod name | difficulty, length | tags
 🌕🌕🌕🌕🌘 | 2872262669, The Last Knight | expert, medium | hostile tuning
 🌕🌕🌕🌕🌘 | 2886546876, Mistweaver White Noise | expert, long | audiovisual polish
 🌕🌕🌕🌕🌘 | 2782687438, Ushiromiya Battler | intermediate, short
-🌕🌕🌕🌕🌘 | 3166962037, Green Hammer | advanced, medium | living shitpost
+🌕🌕🌕🌕🌘 | 3166962037, Green Hammer | advanced, medium | living shitpost, complexity endurance
 🌕🌕🌕🌕🌘 | 3115082438, Florence Nightingale | expert, medium | meta upheaval, audiovisual polish
 🌕🌕🌕🌕🌘 | 2604120238, Vermillion Cross | advanced, short | theory puzzle
 🌕🌕🌕🌕🌘 | 3022468726, Rebellion of Assistant Librarians | expert, long | audiovisual polish, complexity endurance
