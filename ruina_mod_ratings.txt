@@ -55,7 +55,7 @@ rating | workshop id, mod name | difficulty, length | tags
 🌕🌕🌕🌕🌑 | 2646502558, The Pianist | intermediate, short
 🌕🌕🌕🌕🌑 | 2826751799, Hamichi (Hard Mode) | grandmaster, short | living shitpost
 🌕🌕🌕🌕🌑 | 2944386015, Najine Workshop | intermediate, medium
-🌕🌕🌕🌕🌑 | 2940330408, Dreams of the City | long, collection | audiovisual polish
+🌕🌕🌕🌕🌑 | 2940330408, Dreams of the City | intermediate, collection | audiovisual polish
 🌕🌕🌕🌕🌑 | 2955928200, Weegee | advanced, short | living shitpost
 🌕🌕🌕🌕🌑 | 2624746696, Babamalk | beginner, short | living shitpost
 🌕🌕🌕🌕🌑 | 2789859656, Replicanted Memory | expert, long | no deckbuilding
