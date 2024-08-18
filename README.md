@@ -1,1 +1,122 @@
-# modded-ruina-reading-list
+null_machine's modded ruina reading list
+
+- youtube.com/@null_machine
+- ratings are from the perspective of a vanilla only challenge player
+- tiers and notes are mostly unordered
+
+beginner: challenge is not the point
+intermediate: approximates vanilla ruina
+advanced: learn use cases for different floors and archetypes
+expert: be familiar with emotion tactics and cycle decks
+grandmaster: know everything and avoid mistakes
+
+quick, short: around one or two acts and maybe some story
+medium, long: particularly lengthy receptions or a small collection of receptions
+collection: several receptions bundled together, often a collab
+overhaul: several receptions scattered across many tiers of the game
+
+hostile tuning: keeps tensions high and victories cathartic through adversarial numbers
+complexity endurance: presents a tidal wave of mechanics that dictate the pace of combat
+meta upheaval: tests system mastery by forcing engagement with novel mechanics
+theory puzzle: dauntingly restrictive but can be beaten with low nuance niche tactics
+no deckbuilding: more or less gives the player a set build to play with
+living shitpost: laden with jokes that include memes, satire or callbacks
+genre definer: serves as a point of comparison or inspiration for many similar mods
+audiovisual polish: places attention on spectacular attacks, cutscenes, scenery or sprites
+lore faithful: recalls, represents or expands the project moon universe
+
+rating | workshop id, mod name | difficulty, length | tags
+🌕🌕🌕🌕🌖 | 2828003932, Turbulence Office | expert, long | living shitpost, hostile tuning, genre definer, complexity endurance
+🌕🌕🌕🌕🌖 | 2937113783, Kazimierz Major | grandmaster, collection | meta upheaval, hostile tuning
+🌕🌕🌕🌕🌖 | 3160994357, Crowley (Hard Mode) | grandmaster, long | meta upheaval, audiovisual polish, complexity endurance
+🌕🌕🌕🌕🌖 | 2946387740, Gray Tempest | expert, medium | hostile tuning
+🌕🌕🌕🌕🌗 | 2780070602, City Wide Revolt | grandmaster, overhaul | genre definer, living shitpost, complexity endurance, hostile tuning
+🌕🌕🌕🌕🌗 | 2702048806, Angel Office | expert, collection | audiovisual polish, hostile tuning, genre definer, complexity endurance
+🌕🌕🌕🌕🌗 | 3066995165, Fever Dream | advanced, long | living shitpost, genre definer, no deckbuilding
+🌕🌕🌕🌕🌗 | 2871488081, Da'at Floor | expert, collection | hostile tuning, audiovisual polish
+🌕🌕🌕🌕🌗 | 3266652429, King of Liberation | expert, long | meta upheaval, hostile tuning
+🌕🌕🌕🌕🌗 | 3084371779, Shion (Hard Mode) | expert, medium | meta upheaval, hostile tuning
+🌕🌕🌕🌕🌗 | 2884559316, Ayin Realization | expert, long | hostile tuning, audiovisual polish
+🌕🌕🌕🌕🌗 | 2809259571, Touhou Project | grandmaster, collection | audiovisual polish, theory puzzle
+🌕🌕🌕🌕🌗 | 2757959207, Reverse Library | intermediate, collection | living shitpost
+🌕🌕🌕🌕🌘 | 2872262669, The Last Knight | expert, medium | hostile tuning
+🌕🌕🌕🌕🌘 | 2886546876, Mistweaver White Noise | expert, long | audiovisual polish
+🌕🌕🌕🌕🌘 | 2782687438, Ushiromiya Battler | intermediate, short
+🌕🌕🌕🌕🌘 | 3166962037, Green Hammer | advanced, medium | living shitpost
+🌕🌕🌕🌕🌘 | 3115082438, Florence Nightingale | expert, medium | meta upheaval, audiovisual polish
+🌕🌕🌕🌕🌘 | 2604120238, Vermillion Cross | advanced, short | theory puzzle
+🌕🌕🌕🌕🌘 | 3022468726, Rebellion of Assistant Librarians | expert, long | audiovisual polish, complexity endurance
+🌕🌕🌕🌕🌘 | 3135223502, Pale Glory | advanced, medium | audiovisual polish
+🌕🌕🌕🌕🌘 | 2634259292, Distortion Detective | advanced, long | lore faithful
+🌕🌕🌕🌕🌘 | 2604058078, Finnal Battle | advanced, long | living shitpost, theory puzzle
+🌕🌕🌕🌕🌘 | 2783672472, EGO Malkuth | intermediate, medium | lore faithful
+🌕🌕🌕🌕🌘 | 2781298706, Cold Sun Office | expert, collection | audiovisual polish, complexity endurance, genre definer
+🌕🌕🌕🌕🌑 | 3027767160, Prisoners on Cobwebs | intermediate, long | audiovisual polish
+🌕🌕🌕🌕🌑 | 2646502558, The Pianist | intermediate, short
+🌕🌕🌕🌕🌑 | 2826751799, Hamichi (Hard Mode) | grandmaster, short | living shitpost
+🌕🌕🌕🌕🌑 | 2944386015, Najine Workshop | intermediate, medium
+🌕🌕🌕🌕🌑 | 2940330408, Dreams of the City | long, collection | audiovisual polish
+🌕🌕🌕🌕🌑 | 2955928200, Weegee | advanced, short | living shitpost
+🌕🌕🌕🌕🌑 | 2624746696, Babamalk | beginner, short | living shitpost
+🌕🌕🌕🌕🌑 | 2789859656, Replicanted Memory | expert, long | no deckbuilding
+🌕🌕🌕🌕🌑 | 2822556574, Stultifera Navis | intermediate, medium
+🌕🌕🌕🌕🌑 | 3298141421, Gigantos | intermediate, quick | theory puzzle
+🌕🌕🌕🌕🌑 | 3299476393, Bahamut | intermediate, quick | theory puzzle
+🌕🌕🌕🌕🌑 | 2863202917, Distorted Rudolph | intermediate, short | lore faithful
+🌕🌕🌕🌕🌑 | 2740189842, EGO Myo | intermediate, medium
+🌕🌕🌕🌕🌑 | 2810264509, Stigma Workshop | beginner, short | audiovisual polish
+🌕🌕🌕🌕🌑 | 2808315168, Monochrome Dragon | intermediate, medium
+🌕🌕🌕🌕🌑 | 2966201340, Recast Broken Dream | expert, collection
+🌕🌕🌕🌕🌑 | 2878832786, Ender Lilies | intermediate, medium | audiovisual polish
+🌕🌕🌕🌕🌑 | 2917252716, City of Drama: Regret | intermediate, collection
+🌕🌕🌕🌕🌑 | 2877529629, City of Drama: Monster | intermediate, collection
+🌕🌕🌕🌕🌑 | 2616101789, Distorted Xiao | beginner, short | lore faithful, audiovisual polish
+🌕🌕🌕🌕🌑 | 2878858447, Bookhunter | beginner, short
+🌕🌕🌕🌕🌑 | 2834267071, Witches of the City (Challenge Mode) | advanced, medium
+🌕🌕🌕🌖🌑 | 2793224855, Bloodfiendish | beginner, short
+🌕🌕🌕🌖🌑 | 3070741494, Pack of Beasts of Prey | advanced, quick
+🌕🌕🌕🌖🌑 | 2926585159, Patchwork Echelon | advanced, long
+🌕🌕🌕🌖🌑 | 2851950608, Indigo Mountain | advanced, medium | living shitpost
+🌕🌕🌕🌖🌑 | 2985643138, Fixer Fei | beginner, quick
+🌕🌕🌕🌖🌑 | 2614365467, EGO Roland | intermediate, quick
+🌕🌕🌕🌖🌑 | 2466316976, Librarian of Death | beginner, short | no deckbuilding
+🌕🌕🌕🌖🌑 | 3136305614, Odemise | intermediate, short
+🌕🌕🌕🌖🌑 | 2611197051, Raven Team | beginner, short | lore faithful
+🌕🌕🌕🌖🌑 | 3032587814, R Corp's Experiment | intermediate, medium
+🌕🌕🌕🌖🌑 | 2626804206, Emotion Office | beginner, short
+🌕🌕🌕🌖🌑 | 2918512304, Naimon | beginner, quick
+🌕🌕🌕🌖🌑 | 2603265574, Hana Association 1 | beginner, short
+🌕🌕🌕🌖🌑 | 2797560951, Distorted Nemo | beginner, medium
+🌕🌕🌕🌖🌑 | 2645644077, Distorted San | beginner, medium
+🌕🌕🌕🌖🌑 | 2732741540, Leaflet Battle | beginner, short
+🌕🌕🌕🌖🌑 | 2789415319, The MagicGirl of Fiction | advanced, long
+🌕🌕🌕🌖🌑 | 3087610535, Alice Looking For Grimm | advanced, short
+🌕🌕🌕🌖🌑 | 3203955451, Backward Clock | beginner, short | audiovisual polish, no deckbuilding
+🌕🌕🌕🌖🌑 | 3292802696, Lazuli Rain | beginner, quick
+🌕🌕🌕🌖🌑 | 2828763182, Eight Chefs | beginner, short
+🌕🌕🌕🌖🌑 | 2895654773, Shi Section 1 | intermediate, short
+🌕🌕🌕🌖🌑 | 2843274476, Thorn Workshop | beginner, short
+🌕🌕🌕🌖🌑 | 2775331630, Enforcer of Claw | intermediate, short
+🌕🌕🌕🌖🌑 | 2910319000, Suzuhana | beginner, quick
+🌕🌕🌕🌖🌑 | 3068250882, Mamehinata | beginner, quick
+🌕🌕🌕🌖🌑 | 3028436880, Silver Tornado | beginner, quick
+🌕🌕🌕🌖🌑 | 2943182970, Azure Tailor | intermediate, quick
+🌕🌕🌕🌖🌑 | 2878818074, Umbral Legion R Corp 6th Pack | beginner, short
+🌕🌕🌕🌖🌑 | 3027557322, The Astrologer | beginner, short
+🌕🌕🌕🌖🌑 | 3158491871, Butterfly Dream | beginner, quick
+🌕🌕🌕🌖🌑 | 2670427592, Anbara Office | beginner, quick
+🌕🌕🌕🌖🌑 | 2670427592, Ouroboros Office | beginner, quick
+🌕🌕🌕🌖🌑 | 2687008410, EGO Censored | intermediate, quick
+🌕🌕🌕🌖🌑 | 2917349082, Inteleon | beginner, quick
+🌕🌕🌕🌗🌑 | 2775974298, R Corp Hard Mode | intermediate, quick
+🌕🌕🌕🌗🌑 | 2816782144, Jealous Flower | grandmaster, long | theory puzzle, audiovisual polish
+🌕🌕🌕🌘🌑 | 2901639587, Nocturne Office | advanced, short | theory puzzle
+
+yet to play
+
+2745822929, Parallel Timeline | , collection
+2832643250, POTATOMods | , overhaul
+2993988526, Gibbous Project | , overhaul
+3158437440, Non-Canon Library of Ruina | , overhaul
+3244322132, Library of Ruined | , overhaul
+2836491071, Library to Ruina | , overhaul
