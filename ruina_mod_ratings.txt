@@ -2,7 +2,7 @@ null_machine's modded ruina reading list
 
 - youtube.com/@null_machine
 - ratings are from the perspective of a vanilla only challenge player
-- tiers and notes are mostly unordered
+- tiers and notes are unordered
 
 beginner: challenge is not the point
 intermediate: approximates vanilla ruina
