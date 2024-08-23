@@ -23,7 +23,7 @@ no deckbuilding: more or less gives the player a set build to play with
 living shitpost: laden with jokes that include memes, satire or callbacks
 genre definer: serves as a point of comparison or inspiration for many similar mods
 audiovisual polish: places attention on spectacular attacks, cutscenes, scenery or sprites
-lore faithful: recalls, represents or expands the project moon universe
+lore faithful: recalls, represents or expands the project moon setting
 
 rating | workshop id, mod name | difficulty, length | tags
 🌕🌕🌕🌕🌖 | 2828003932, Turbulence Office | expert, long | living shitpost, hostile tuning, genre definer, complexity endurance
@@ -38,6 +38,7 @@ rating | workshop id, mod name | difficulty, length | tags
 🌕🌕🌕🌕🌗 | 3084371779, Shion (Hard Mode) | expert, medium | meta upheaval, hostile tuning
 🌕🌕🌕🌕🌗 | 2884559316, Ayin Realization | expert, long | hostile tuning, audiovisual polish
 🌕🌕🌕🌕🌗 | 2809259571, Touhou Project | grandmaster, collection | audiovisual polish, theory puzzle
+🌕🌕🌕🌕🌗 | 2745822929, Parallel Timeline | expert, collection | hostile tuning, audiovisual polish
 🌕🌕🌕🌕🌗 | 2757959207, Reverse Library | intermediate, collection | living shitpost
 🌕🌕🌕🌕🌘 | 2872262669, The Last Knight | expert, medium | hostile tuning
 🌕🌕🌕🌕🌘 | 2886546876, Mistweaver White Noise | expert, long | audiovisual polish
@@ -58,7 +59,7 @@ rating | workshop id, mod name | difficulty, length | tags
 🌕🌕🌕🌕🌑 | 2940330408, Dreams of the City | intermediate, collection | audiovisual polish
 🌕🌕🌕🌕🌑 | 2955928200, Weegee | advanced, short | living shitpost
 🌕🌕🌕🌕🌑 | 2624746696, Babamalk | beginner, short | living shitpost
-🌕🌕🌕🌕🌑 | 2789859656, Replicanted Memory | expert, long | no deckbuilding
+🌕🌕🌕🌕🌑 | 2789859656, Replicanted Memory | expert, medium | no deckbuilding
 🌕🌕🌕🌕🌑 | 2822556574, Stultifera Navis | intermediate, medium
 🌕🌕🌕🌕🌑 | 3298141421, Gigantos | intermediate, quick | theory puzzle
 🌕🌕🌕🌕🌑 | 3299476393, Bahamut | intermediate, quick | theory puzzle
@@ -117,6 +118,4 @@ yet to play
 2832643250, POTATOMods | , overhaul
 2993988526, Gibbous Project | , overhaul
 3158437440, Non-Canon Library of Ruina | , overhaul
-3244322132, Library of Ruined | , overhaul
 2836491071, Library to Ruina | , overhaul
-2745822929, Parallel Timeline | , collection
