@@ -65,14 +65,17 @@ rating | workshop id, mod name | difficulty, length | tags
 🌕🌕🌕🌕🌑 | 3299476393, Bahamut | intermediate, quick | theory puzzle
 🌕🌕🌕🌕🌑 | 2863202917, Distorted Rudolph | intermediate, short | lore faithful
 🌕🌕🌕🌕🌑 | 2740189842, EGO Myo | intermediate, medium
+🌕🌕🌕🌕🌑 | 3280811763, EGO Dong-hwan | expert, short
 🌕🌕🌕🌕🌑 | 2810264509, Stigma Workshop | beginner, short | audiovisual polish
 🌕🌕🌕🌕🌑 | 2808315168, Monochrome Dragon | intermediate, medium
 🌕🌕🌕🌕🌑 | 2966201340, Recast Broken Dream | expert, collection
+🌕🌕🌕🌕🌑 | 2778194501, EGO Philip | intermediate, short
 🌕🌕🌕🌕🌑 | 2878832786, Ender Lilies | intermediate, medium | audiovisual polish
 🌕🌕🌕🌕🌑 | 2917252716, City of Drama: Regret | intermediate, collection
 🌕🌕🌕🌕🌑 | 2877529629, City of Drama: Monster | intermediate, collection
 🌕🌕🌕🌕🌑 | 2616101789, Distorted Xiao | beginner, short | lore faithful, audiovisual polish
-🌕🌕🌕🌕🌑 | 2878858447, Bookhunter | beginner, short
+🌕🌕🌕🌕🌑 | 2023 | 2878858447, Bookhunter | beginner, short
+🌕🌕🌕🌕🌑 | 2024/08 | 3158839815, Sparkle Feather Office | intermediate, long
 🌕🌕🌕🌕🌑 | 2834267071, Witches of the City (Challenge Mode) | advanced, medium
 🌕🌕🌕🌖🌑 | 2793224855, Bloodfiendish | beginner, short
 🌕🌕🌕🌖🌑 | 3070741494, Pack of Beasts of Prey | advanced, quick
@@ -112,10 +115,3 @@ rating | workshop id, mod name | difficulty, length | tags
 🌕🌕🌕🌗🌑 | 2775974298, R Corp Hard Mode | intermediate, quick
 🌕🌕🌕🌗🌑 | 2816782144, Jealous Flower | grandmaster, long | theory puzzle, audiovisual polish
 🌕🌕🌕🌘🌑 | 2901639587, Nocturne Office | advanced, short | theory puzzle
-
-yet to play
-
-2832643250, POTATOMods | , overhaul
-2993988526, Gibbous Project | , overhaul
-3158437440, Non-Canon Library of Ruina | , overhaul
-2836491071, Library to Ruina | , overhaul
