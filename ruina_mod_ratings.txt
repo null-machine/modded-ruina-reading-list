@@ -40,6 +40,8 @@ rating | workshop id, mod name | difficulty, length | tags
 🌕🌕🌕🌕🌗 | 2809259571, Touhou Project | grandmaster, collection | audiovisual polish, theory puzzle
 🌕🌕🌕🌕🌗 | 2745822929, Parallel Timeline | expert, collection | hostile tuning, audiovisual polish
 🌕🌕🌕🌕🌗 | 2757959207, Reverse Library | intermediate, collection | living shitpost
+🌕🌕🌕🌕🌗 | 3358685574, Distorted Queen of Hatred | advanced, medium | audiovisual polish
+🌕🌕🌕🌕🌗 | 3357409424, Terminal Debauchery | expert, long | meta upheaval, complexity endurance, living shitpost
 🌕🌕🌕🌕🌘 | 2872262669, The Last Knight | expert, medium | hostile tuning
 🌕🌕🌕🌕🌘 | 2886546876, Mistweaver White Noise | expert, long | audiovisual polish
 🌕🌕🌕🌕🌘 | 2782687438, Ushiromiya Battler | intermediate, short
@@ -74,8 +76,8 @@ rating | workshop id, mod name | difficulty, length | tags
 🌕🌕🌕🌕🌑 | 2917252716, City of Drama: Regret | intermediate, collection
 🌕🌕🌕🌕🌑 | 2877529629, City of Drama: Monster | intermediate, collection
 🌕🌕🌕🌕🌑 | 2616101789, Distorted Xiao | beginner, short | lore faithful, audiovisual polish
-🌕🌕🌕🌕🌑 | 2023 | 2878858447, Bookhunter | beginner, short
-🌕🌕🌕🌕🌑 | 2024/08 | 3158839815, Sparkle Feather Office | intermediate, long
+🌕🌕🌕🌕🌑 | 2878858447, Bookhunter | beginner, short
+🌕🌕🌕🌕🌑 | 3158839815, Sparkle Feather Office | intermediate, long
 🌕🌕🌕🌕🌑 | 2834267071, Witches of the City (Challenge Mode) | advanced, medium
 🌕🌕🌕🌖🌑 | 2793224855, Bloodfiendish | beginner, short
 🌕🌕🌕🌖🌑 | 3070741494, Pack of Beasts of Prey | advanced, quick
@@ -85,6 +87,7 @@ rating | workshop id, mod name | difficulty, length | tags
 🌕🌕🌕🌖🌑 | 2614365467, EGO Roland | intermediate, quick
 🌕🌕🌕🌖🌑 | 2466316976, Librarian of Death | beginner, short | no deckbuilding
 🌕🌕🌕🌖🌑 | 3136305614, Odemise | intermediate, short
+🌕🌕🌕🌖🌑 | 3207173027, NightOwl | beginner, short
 🌕🌕🌕🌖🌑 | 2611197051, Raven Team | beginner, short | lore faithful
 🌕🌕🌕🌖🌑 | 3032587814, R Corp's Experiment | intermediate, medium
 🌕🌕🌕🌖🌑 | 2626804206, Emotion Office | beginner, short
