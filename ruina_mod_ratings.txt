@@ -34,8 +34,8 @@ rating | workshop id, mod name | difficulty, length | tags
 🌕🌕🌕🌕🌗 | 2702048806, Angel Office | expert, collection | audiovisual polish, hostile tuning, genre definer, complexity endurance
 🌕🌕🌕🌕🌗 | 3066995165, Fever Dream | advanced, long | living shitpost, genre definer, complexity endurance, no deckbuilding
 🌕🌕🌕🌕🌗 | 2871488081, Da'at Floor | expert, collection | hostile tuning, audiovisual polish
-🌕🌕🌕🌕🌗 | 3266652429, King of Liberation | expert, long | meta upheaval, hostile tuning
-🌕🌕🌕🌕🌗 | 3084371779, Shion (Hard Mode) | expert, medium | meta upheaval, hostile tuning
+🌕🌕🌕🌕🌗 | 3266652429, King of Liberation | expert, long | meta upheaval, hostile tuning, audiovisual polish
+🌕🌕🌕🌕🌗 | 3084371779, Shion (Hard Mode) | expert, medium | meta upheaval, hostile tuning, audiovisual polish
 🌕🌕🌕🌕🌗 | 2884559316, Ayin Realization | expert, long | hostile tuning, audiovisual polish
 🌕🌕🌕🌕🌗 | 2809259571, Touhou Project | grandmaster, collection | audiovisual polish, theory puzzle
 🌕🌕🌕🌕🌗 | 2745822929, Parallel Timeline | expert, collection | hostile tuning, audiovisual polish
